@@ -1,5 +1,8 @@
-# laravel-docker
+# Laravel-docker
 Dockerize a laravel application with one-line code
+
+**Prerequisites**
++ [Docker](https://docs.docker.com/desktop/) installed
 
 **Quick Start**
 1. Clone [the repository](https://github.com/ShakalakaB/laravel-docker.git): `$ git clone https://github.com/ShakalakaB/laravel-docker.git`
